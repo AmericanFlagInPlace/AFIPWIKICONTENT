@@ -19,6 +19,10 @@ Once all three applications installed we can get started.
 
 ---
 
+# Download Obsidian
+
+
+# Legacy
 ## Setup
 
 1. Create a folder somewhere where you can get to it easily. This can be named anything.
